@@ -13,6 +13,8 @@ public class Main {
 
         lambdaToPrintItemsInCollection1(namesList);
         lambdaToPrintItemsInCollection2(namesList);
+
+        System.out.println("develop commit 1");
     }
 
     private static void lambdaToPrintItemsInCollection2(List<String> list) {
