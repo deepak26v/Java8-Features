@@ -16,6 +16,7 @@ public class Main {
 
         System.out.println("develop commit 1");
         System.out.println("develop commit 2");
+        System.out.println("develop commit 3");
     }
 
     private static void lambdaToPrintItemsInCollection2(List<String> list) {
